@@ -1,0 +1,170 @@
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\carlo\source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.dll
+C:\Users\carlo\source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.pdb
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.dll
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.pdb
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\Karina\Desktop\ReportRadar-BackEnd\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.deps.json
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.runtimeconfig.json
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.dll
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\bin\Debug\net6.0\Domain.pdb
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.AssemblyReference.cache
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfoInputs.cache
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.AssemblyInfo.cs
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.csproj.CopyComplete
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.dll
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\refint\DDD.Infra.SQLServer.dll
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.pdb
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\DDD.Infra.SQLServer.genruntimeconfig.cache
+C:\Users\carlo\source\Repos\MicroServiço\PlataformaUniversidadeDDD\DDD.Infra.SQLServer\obj\Debug\net6.0\ref\DDD.Infra.SQLServer.dll

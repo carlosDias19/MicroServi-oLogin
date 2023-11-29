@@ -1,0 +1,92 @@
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\PC\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDD\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\reportRadarBack\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\ti.estagiario\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.AssemblyReference.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\carlo\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+C:\Users\Aula\Source\Repos\DDDReportRadar\PlataformaUniversidadeDDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
